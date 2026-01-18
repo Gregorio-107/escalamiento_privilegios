@@ -1,6 +1,4 @@
-Claro, puedo redactar un archivo README.md profesional en el que se explique todo el proceso técnico que has seguido y se detallen los problemas de inestabilidad del sistema que impidieron la culminación del ataque. Esto servirá para demostrar que entiendes la teoría y la práctica, aunque el entorno de laboratorio haya fallado.
 
-Aquí tienes una propuesta de contenido:
 
 Informe de Práctica: Escalada de Privilegios Dirty COW (CVE-2016-5195)
 1. Resumen del Proyecto
